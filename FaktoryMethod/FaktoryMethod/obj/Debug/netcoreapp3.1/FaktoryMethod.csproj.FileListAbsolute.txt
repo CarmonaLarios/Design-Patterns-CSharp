@@ -1,0 +1,14 @@
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\bin\Debug\netcoreapp3.1\FaktoryMethod.exe
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\bin\Debug\netcoreapp3.1\FaktoryMethod.deps.json
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\bin\Debug\netcoreapp3.1\FaktoryMethod.runtimeconfig.json
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\bin\Debug\netcoreapp3.1\FaktoryMethod.runtimeconfig.dev.json
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\bin\Debug\netcoreapp3.1\FaktoryMethod.dll
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\bin\Debug\netcoreapp3.1\FaktoryMethod.pdb
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\obj\Debug\netcoreapp3.1\FaktoryMethod.csproj.AssemblyReference.cache
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\obj\Debug\netcoreapp3.1\FaktoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\obj\Debug\netcoreapp3.1\FaktoryMethod.AssemblyInfoInputs.cache
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\obj\Debug\netcoreapp3.1\FaktoryMethod.AssemblyInfo.cs
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\obj\Debug\netcoreapp3.1\FaktoryMethod.csproj.CoreCompileInputs.cache
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\obj\Debug\netcoreapp3.1\FaktoryMethod.dll
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\obj\Debug\netcoreapp3.1\FaktoryMethod.pdb
+C:\Projetos Dev\Design-Patterns-CSharp\FaktoryMethod\FaktoryMethod\obj\Debug\netcoreapp3.1\FaktoryMethod.genruntimeconfig.cache
