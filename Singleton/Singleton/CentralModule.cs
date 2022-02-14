@@ -11,7 +11,7 @@
 
         public static CentralModule GetInstance()
         {
-            if (_instance == null) _instance = new CentralModule();
+            _instance??= new CentralModule();
             return _instance;
         }
     }
